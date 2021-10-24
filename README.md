@@ -1,1 +1,4 @@
-# Fox-esportes-1
+#EXTM3U 
+
+#EXTINF:-1, tvg-logo="FOX ESPORTES 1
+http://189.85.164.198:2086 /live/FOXSPORTS1/360p.m3u8
